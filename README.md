@@ -43,4 +43,4 @@ http://beauty.weixinai.cn/index
 
 
 #### 用户权益
-1. 商用二开联系作者，请关注官网：http://www.weixinai.cn
+1. 商用二开联系作者，请关注官网：http://weixinai.cn/
